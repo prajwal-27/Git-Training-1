@@ -1,1 +1,2 @@
 this is local file 3
+file3.txt is updated from bug123 branch.

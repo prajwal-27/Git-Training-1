@@ -1,3 +1,8 @@
 this is local file 3
 file3.txt is updated from bug123 branch.
+
 this file3.txt also updated from lacal branch main.
+=======
+
+this file3.txt is also updated from remote origin/master Or remote main branch.
+
